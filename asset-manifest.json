@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/deeptalk/static/css/main.a5cd2257.css",
+    "main.js": "/deeptalk/static/js/main.407a9dcb.js",
+    "static/media/logo.png": "/deeptalk/static/media/logo.76bcd0b38cb9d3e116ef.png",
+    "index.html": "/deeptalk/index.html",
+    "main.a5cd2257.css.map": "/deeptalk/static/css/main.a5cd2257.css.map",
+    "main.407a9dcb.js.map": "/deeptalk/static/js/main.407a9dcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5cd2257.css",
+    "static/js/main.407a9dcb.js"
+  ]
+}
