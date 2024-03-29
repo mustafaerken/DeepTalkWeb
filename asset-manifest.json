@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DeepTalk/static/css/main.a5cd2257.css",
-    "main.js": "/DeepTalk/static/js/main.9c630e7d.js",
+    "main.js": "/DeepTalk/static/js/main.31ef5369.js",
     "static/media/logo.png": "/DeepTalk/static/media/logo.76bcd0b38cb9d3e116ef.png",
     "index.html": "/DeepTalk/index.html",
     "main.a5cd2257.css.map": "/DeepTalk/static/css/main.a5cd2257.css.map",
-    "main.9c630e7d.js.map": "/DeepTalk/static/js/main.9c630e7d.js.map"
+    "main.31ef5369.js.map": "/DeepTalk/static/js/main.31ef5369.js.map"
   },
   "entrypoints": [
     "static/css/main.a5cd2257.css",
-    "static/js/main.9c630e7d.js"
+    "static/js/main.31ef5369.js"
   ]
 }
